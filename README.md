@@ -1,15 +1,16 @@
-San francisco Listing data analysis
+## San Francisco Listing data analysis
 
 Using the Inside Airbnb listings data for San Francisco
 
 Python Packages used in the project:
 
-NumPy
-Pandas
-matplotlib
+- NumPy
+- Pandas
+- matplotlib
 This project is meant to give deeper understanding of the airbnb listing data.
 
 *Final Findings Summarized:*
+
 Most of the listings are clustered near the bart stations and center of the city
 Mission (141), Western Addition (105) and Upper Market (78) at the top 3 neighborhoods with most listings
 Prices very wildly based on property and room types.The most frequently listered/rentered apartment types are the following top 3:
